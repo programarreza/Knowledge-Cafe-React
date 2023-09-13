@@ -7,7 +7,7 @@ const Bookmark = ({bookmark}) => {
 	console.log(Title);
 	return (
 		<div className='bg-white p-4 m-4 rounded-xl'>
-			<h1 className='text-xl'>Bookmark: {Title}</h1>
+			<h1 className='text-xl'>{Title}</h1>
 		</div>
 	);
 };
