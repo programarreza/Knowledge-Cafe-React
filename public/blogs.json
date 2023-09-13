@@ -1,0 +1,48 @@
+[
+	{
+	  "ID": 1,
+	  "Cover": "https://i.ibb.co/sKQJvb2/2.png",
+	  "Title": "This could refer to the title of an article, story, or piece of content that",
+	  "Author Img": "https://i.ibb.co/dQ0t6xR/handsome-bearded-guy-posing-against-white-wall.jpg",
+	  "Posted Date": "2023-09-13",
+	  "Reading Time": 45,
+	  "Hashtags": ["#fake", "#data", "#example"]
+	},
+	{
+	  "ID": 2,
+	  "Cover": "https://i.ibb.co/wyQ8d4q/6.jpg",
+	  "Title": "this is likely just a placeholder title used for demonstration",
+	  "Author Img": "https://i.ibb.co/PzHTyCG/happy-confident-male-entrepreneur-with-postive-smile-has-beard-mustache-keeps-arms-folded-being-high.jpg",
+	  "Posted Date": "2023-09-13",
+	  "Reading Time": 30,
+	  "Hashtags": ["#fiction", "#story", "#placeholder"]
+	},
+	{
+	  "ID": 3,
+	  "Cover": "https://i.ibb.co/Dz2cQVY/5.jpg",
+	  "Title": "Again, this title appears to be a generic placeholder title often used for demonstration or testing purposes.",
+	  "Author Img": "https://i.ibb.co/2j8zFhF/surprised-happy-girl-pointing-left-recommend-product-advertisement-make-okay-gesture.jpg",
+	  "Posted Date": "2023-09-13",
+	  "Reading Time": 60,
+	  "Hashtags": ["#example", "#json", "#data"]
+	},
+	{
+	  "ID": 4,
+	  "Cover": "https://i.ibb.co/3NjkyzG/4.jpg",
+	  "Title": "Like the others, this title is a placeholder and doesn't have a particular meaning.",
+	  "Author Img": "https://i.ibb.co/Gc2B70S/young-bearded-man-with-striped-shirt.jpg",
+	  "Posted Date": "2023-09-13",
+	  "Reading Time": 20,
+	  "Hashtags": ["#sample", "#data", "#placeholder"]
+	},
+	{
+	  "ID": 5,
+	  "Cover": "https://i.ibb.co/18XFqKd/3.png",
+	  "Title": "Once more, this title is indicative of a generic placeholder title and doesn't carry a specific meaning on its own.",
+	  "Author Img": "https://i.ibb.co/rxsMpJt/close-up-young-successful-man-smiling-camera-standing-casual-outfit-against-blue-background.jpg",
+	  "Posted Date": "2023-09-13",
+	  "Reading Time": 75,
+	  "Hashtags": ["#data", "#fake", "#example"]
+	}
+  ]
+  
